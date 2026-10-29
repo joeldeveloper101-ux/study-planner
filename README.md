@@ -34,7 +34,7 @@ Get the latest installer from the
 Requires Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/Joel+Kyaligamba/study-planner.git
+git clone https://github.com/joeldeveloper101-ux/study-planner.git
 cd study-planner
 pip install -r requirements.txt
 python main.py
@@ -66,7 +66,7 @@ build.bat
 
 ## Your data
 
-Everything is stored locally in a `.study\\\_planner` folder in your user
+Everything is stored locally in a `.study\\\\\\\_planner` folder in your user
 directory. Nothing is sent online.
 
 ## License
