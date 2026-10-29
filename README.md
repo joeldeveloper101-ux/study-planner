@@ -1,4 +1,4 @@
-# Study Planner
+## Study Planner
 
 A desktop study planner for Windows, built with Python and PySide6. Keep your
 courses, deadlines, tests and weekly timetable in one place, and get reminders
@@ -36,7 +36,7 @@ break reminders, with the number of reminders per day set by you
 ## Download (Windows)
 
 Get the latest installer from the
-[Releases page](https://github.com/YOUR-USERNAME/study-planner/releases/latest).
+[Releases page](https://github.com/joeldeveloper101-ux/study-planner/releases/tag/v1.0.0).
 
 1. Download the `.exe` installer
 2. Run it and follow the prompts
