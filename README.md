@@ -19,6 +19,18 @@ break reminders, with the number of reminders per day set by you
 * **Settings**: dark/light theme, accent colour, UI scale and notification toggles
 * Touchpad and mouse-wheel scrolling throughout
 
+!\[Dashboard Tab In Dark Theme](screenshots/dashboard\_darktheme.png)
+
+!\[Dashboard Tab In Light Theme](screenshots/dashboard\_light\_theme.png)
+
+!\[Planner Tab](screenshots/planner\_tab.png)
+
+!\[Settings Tab](screenshots/settings\_tab.png)
+
+!\[Timetable Tab](screenshots/timetable\_tab.png)
+
+
+
 ## Download (Windows)
 
 Get the latest installer from the
@@ -66,7 +78,7 @@ build.bat
 
 ## Your data
 
-Everything is stored locally in a `.study\\\\\\\_planner` folder in your user
+Everything is stored locally in a `.study\\\\\\\\\\\\\\\_planner` folder in your user
 directory. Nothing is sent online.
 
 ## License
