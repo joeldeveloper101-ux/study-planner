@@ -26,7 +26,7 @@ break reminders
 
 ### Your data
 
-Stored locally in `.study\_planner` in your user folder. Nothing is sent online.
+Stored locally in `.study_planner` in your user folder. Nothing is sent online.
 
 ### SHA-256
 
